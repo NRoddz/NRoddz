@@ -1,32 +1,30 @@
-# Hey there! I'm Nicolas 👋
+# Hey! I'm Nicolas 👋
 
-I'm a **Responsible AI Specialist** and an **aspiring builder** based in **Argentina 🇦🇷**.
+I'm a **Responsible AI Specialist** and an **aspirant builder** based in **Argentina 🇦🇷**.
 
-I’m interested in practical AI, trustworthy systems, and building useful tools that make complex work feel a bit more human and a bit more manageable.
+You’ll find here some of the things I’ve been working on lately, mostly around practical AI, trustworthy systems, self-hosted tools, and agent workflows.
 
-Here are a few things I’ve been working on lately:
-
-## 🚀 Featured Projects
+## 🚀 Stuff I'm Building
 
 - [**HetzClaw**](https://github.com/NRoddz/HetzClaw)
-  - A self-hosted control plane for managing multiple OpenClaw or Clawbot agents on one VPS.
+  - Self-hosted control plane for managing multiple OpenClaw or Clawbot agents on one VPS.
 
 - [**Air2Json**](https://github.com/NRoddz/Air2Json)
-  - A simple tool to convert public Airtable data into JSON.
+  - A simple app to convert Airtable public data into JSON.
 
 - [**EU AI Act Compliance Checker**](https://github.com/NRoddz/EU-AI-Act-Compliance-Checker)
   - A more user-friendly tool for checking AI Act compliance.
 
-## 🌱 What I Like Working On
+## 🌱 Things I Care About
 
 - Responsible AI and governance
 - Agent workflows and automation
 - Self-hosted infrastructure
-- Tools that make operations calmer and clearer
+- Building useful, human-centered tools
 
-## 💬 Say Hi
+## 💬 Reach Out
 
-If you have questions, ideas, or feedback, feel free to reach out here on GitHub or open an issue in one of the projects.
+Feel free to contact me here on GitHub if you have questions, ideas, or feedback.
 
 Peace ✌️  
 **Nicolas**
