@@ -2,7 +2,7 @@
 
 I'm a **Responsible AI Specialist** and an **builder** based in **Argentina 🇦🇷**.
 
-My focus now is [**RiesgosIA**](https://riesgosia.org/), a platform centered on providing resources and tools to help advance safer, more beneficial AI for everyone.
+I built and maintain [**RiesgosIA**](https://riesgosia.org/), a platform centered on providing resources and tools to help advance safer, more beneficial AI for everyone.
 
 You’ll find here some of the things I’ve been working on lately, mostly around practical AI, trustworthy systems, self-hosted tools, and agent workflows.
 
