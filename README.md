@@ -1,6 +1,6 @@
 # Hey! I'm Nicolas 👋
 
-I'm a **Responsible AI Specialist** and an **builder** based in **Argentina 🇦🇷**.
+I'm a **Responsible AI Specialist** and **builder** based in **Argentina 🇦🇷**.
 
 I built and maintain [**RiesgosIA**](https://riesgosia.org/), a platform centered on providing resources and tools to help advance safer, more beneficial AI for everyone.
 
