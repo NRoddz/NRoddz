@@ -26,7 +26,7 @@ You’ll find here some of the things I’ve been working on lately, mostly arou
 
 ## 💬 Reach Out
 
-Feel free to contact me here on GitHub if you have questions, ideas, or feedback.
+Feel free to contact me at info(at)riesgosia.org if you have questions, ideas, or feedback.
 
 Peace ✌️  
 **Nicolas**
