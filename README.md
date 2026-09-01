@@ -4,6 +4,8 @@ I'm a **Responsible AI Specialist** and **builder** based in **Argentina 🇦�
 
 I built and maintain [**RiesgosIA**](https://riesgosia.org/), a platform centered on providing resources and tools to help advance safer, more beneficial AI for everyone.
 
+I am also experimenting with iOS app development and recently released my first Conscious Breathing app "Orb". [**Try it!**](https://jnanalab.com/orb)
+
 You’ll find here some of the things I’ve been working on lately, mostly around practical AI, trustworthy systems, self-hosted tools, and agent workflows.
 
 ## 🚀 Stuff I'm Building
